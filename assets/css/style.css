@@ -52,6 +52,10 @@ nav a:hover {
     color: darkred;
 }
 
+div ul {
+    list-style-type: none;
+}
+
 #banner {
     width: 100%;
     height: auto;
